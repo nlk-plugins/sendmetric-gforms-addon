@@ -1,2 +1,2 @@
-# sendmetric-gforms-addon
-sendmetric-gforms-addon
+# Gravity Forms - SendMetric Add-On
+Adds form submissions to SendMetric
